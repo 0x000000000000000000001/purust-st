@@ -1,8 +1,0 @@
-
-pub fn Control_Monad_ST_Internal_modifyImpl() -> crate::UnknownType { crate::UnknownType::new(Record_a { ..Default::default() }) }
-pub fn Control_Monad_ST_Internal_pure_() -> crate::UnknownType { crate::UnknownType::new(Record_a { ..Default::default() }) }
-pub fn Control_Monad_ST_Internal_run() -> crate::UnknownType { crate::UnknownType::new(Record_a { ..Default::default() }) }
-pub fn Control_Monad_ST_Internal_for() -> crate::UnknownType { crate::UnknownType::new(Record_a { ..Default::default() }) }
-pub fn Control_Monad_ST_Internal_foreach() -> crate::UnknownType { crate::UnknownType::new(Record_a { ..Default::default() }) }
-
-pub fn Control_Monad_ST_Internal_while() -> crate::UnknownType { crate::UnknownType::new(Record_a { ..Default::default() }) }
